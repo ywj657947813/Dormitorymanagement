@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Dormitorymanagement"
+  id="myeclipse.1476173026669"
+  context-root="/Dormitorymanagement"
+  j2ee-spec="6.0"
+  archive="Dormitorymanagement.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
